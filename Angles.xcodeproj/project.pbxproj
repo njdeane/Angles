@@ -11,6 +11,8 @@
 		A6FE13F72765B74700F8C5F9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6FE13F62765B74700F8C5F9 /* ContentView.swift */; };
 		A6FE13F92765B74900F8C5F9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6FE13F82765B74900F8C5F9 /* Assets.xcassets */; };
 		A6FE13FC2765B74900F8C5F9 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A6FE13FB2765B74900F8C5F9 /* Preview Assets.xcassets */; };
+		A6FE14052765DABC00F8C5F9 /* Transform.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6FE14042765DABC00F8C5F9 /* Transform.swift */; };
+		A6FE14072765DB9600F8C5F9 /* Operators.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6FE14062765DB9600F8C5F9 /* Operators.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		A6FE13F62765B74700F8C5F9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A6FE13F82765B74900F8C5F9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A6FE13FB2765B74900F8C5F9 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A6FE14042765DABC00F8C5F9 /* Transform.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transform.swift; sourceTree = "<group>"; };
+		A6FE14062765DB9600F8C5F9 /* Operators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Operators.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				A6FE13F42765B74700F8C5F9 /* AnglesApp.swift */,
 				A6FE13F62765B74700F8C5F9 /* ContentView.swift */,
+				A6FE14042765DABC00F8C5F9 /* Transform.swift */,
+				A6FE14062765DB9600F8C5F9 /* Operators.swift */,
 				A6FE13F82765B74900F8C5F9 /* Assets.xcassets */,
 				A6FE13FA2765B74900F8C5F9 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				A6FE13F72765B74700F8C5F9 /* ContentView.swift in Sources */,
+				A6FE14072765DB9600F8C5F9 /* Operators.swift in Sources */,
+				A6FE14052765DABC00F8C5F9 /* Transform.swift in Sources */,
 				A6FE13F52765B74700F8C5F9 /* AnglesApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
